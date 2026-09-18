@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Distribusi & Monitoring Voucher WiFi Agen",
+  "description": "Aplikasi manajemen distribusi voucher WiFi ke agen, pelacakan stok real-time, pencatatan voucher terjual, retur, voucher rusak, serta template laporan bulanan Excel dan PDF transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
